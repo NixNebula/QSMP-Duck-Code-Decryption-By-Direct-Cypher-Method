@@ -23,24 +23,7 @@ AFTER RUNNING MY SCRIPT I CAME TO THE CONCLUSION THAT THE USED METHOD IS MOST LI
 
 EXAMPLE:
 
-1361
-     Char0  Char1  Char2  Char3  Char4
-4123     d      r      a      m      a
-emda
-     Char0  Char1  Char2  Char3  Char4
-8888     m      e      d      e      a 
-8889     m      e      d      i      a 
-     Char0  Char1  Char2
-1170     m      a      d
-1170     m      b      d
-1170     m      e      d
-1170     m      f      d
-1170     m      g      d
-1170     m      i      d
-1170     m      o      d
-1170     m      t      d
-1170     m      u      d
-1170     m      x      d
+SEE PNG FILE IN THIS DIRECTORY
 
 THIS IS INTERPRETED AS FOLLOWS:
 
